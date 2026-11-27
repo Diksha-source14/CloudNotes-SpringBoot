@@ -105,7 +105,7 @@ Example:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/cloudnotes
 spring.datasource.username=root
-spring.datasource.password=YOUR_PASSWORD
+spring.datasource.password=root
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
